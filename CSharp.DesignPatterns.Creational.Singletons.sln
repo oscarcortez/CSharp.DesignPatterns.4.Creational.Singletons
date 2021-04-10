@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.DesignPatterns.Creational.Singletons", "CSharp.DesignPatterns.Creational.Singletons\CSharp.DesignPatterns.Creational.Singletons.csproj", "{271DB472-CC90-4903-B1E1-AEADEB15482E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "models", "models\models.csproj", "{2A59094F-B62D-4310-B518-C06CE2A22237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{271DB472-CC90-4903-B1E1-AEADEB15482E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271DB472-CC90-4903-B1E1-AEADEB15482E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271DB472-CC90-4903-B1E1-AEADEB15482E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271DB472-CC90-4903-B1E1-AEADEB15482E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A59094F-B62D-4310-B518-C06CE2A22237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A59094F-B62D-4310-B518-C06CE2A22237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A59094F-B62D-4310-B518-C06CE2A22237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A59094F-B62D-4310-B518-C06CE2A22237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69D514C3-78A5-4445-A942-DBB8CA0CB8EE}
+	EndGlobalSection
+EndGlobal
